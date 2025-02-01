@@ -55,8 +55,11 @@ The dataset (covid_19_clean_complete.csv) contains 49,068 rows and 10 columns, c
 * Heatmaps for regional impact analysis.
 
 **📜 Key Takeaways**
+
 ✅ PySpark for large-scale data processing.
+
 ✅ Time-series forecasting for predicting case growth.
+
 ✅ Data visualization to communicate insights.
 
 **👨‍💻 Author**
