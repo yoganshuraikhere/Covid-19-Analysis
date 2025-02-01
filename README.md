@@ -32,23 +32,27 @@ The dataset (covid_19_clean_complete.csv) contains 49,068 rows and 10 columns, c
 * WHO Region	WHO region categorization.
 
 **🚀 Implementation Steps**
+
 1️⃣ Data Loading & Cleaning
 
-Load CSV into PySpark DataFrame.
-Handle missing values and inconsistencies.
+* Load CSV into PySpark DataFrame.
+* Handle missing values and inconsistencies.
+
 2️⃣ Exploratory Data Analysis (EDA)
 
-Identify trends over time (daily, weekly, monthly).
-Compare cases across countries and regions.
-Compute mortality and recovery rates.
+* Identify trends over time (daily, weekly, monthly).
+* Compare cases across countries and regions.
+* Compute mortality and recovery rates.
+
 3️⃣ Time-Series Forecasting
 
-Implement Prophet / ARIMA / LSTM models to predict future cases.
-Evaluate forecast accuracy using RMSE and MAPE.
+* Implement Prophet / ARIMA / LSTM models to predict future cases.
+* Evaluate forecast accuracy using RMSE and MAPE.
+
 4️⃣ Visualization & Insights
 
-Plot case progression over time.
-Heatmaps for regional impact analysis.
+* Plot case progression over time.
+* Heatmaps for regional impact analysis.
 
 **📜 Key Takeaways**
 ✅ PySpark for large-scale data processing.
